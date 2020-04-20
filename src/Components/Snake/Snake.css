@@ -1,0 +1,8 @@
+.snakedot{
+    position: absolute;
+    width: 2%;
+    height: 2%;
+    background-color: black;
+    border:1px solid white;
+    z-index: 2;
+}

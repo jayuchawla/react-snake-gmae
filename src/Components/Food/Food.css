@@ -1,0 +1,8 @@
+.foodsnake{
+    position: absolute;
+    width: 2%;
+    height: 2%;
+    background: green;
+    border: 1px solid black;
+    z-index: 1;
+}
